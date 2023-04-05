@@ -1,0 +1,2 @@
+hello
+world you are reading a text fileAdding new contentAdding new content

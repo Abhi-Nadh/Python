@@ -1,0 +1,5 @@
+userdata=set(input("Enter set data by spacing: ").split())
+print(userdata)
+revdata=input("Enter the data to be removed : ")
+userdata.remove(revdata)
+print(userdata)
